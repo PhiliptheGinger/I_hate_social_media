@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "instagram",
+    "text": "Comedy showcase this Friday at The Bell House in Brooklyn 8pm. Lineup is stacked.",
+    "created_time": "2026-04-20T13:05:00Z",
+    "permalink": "https://instagram.com/p/example1",
+    "location": "Brooklyn, NY"
+  },
+  {
+    "platform": "facebook",
+    "text": "Live music tonight at Harbor Stage",
+    "created_time": "2026-04-22T19:15:00Z",
+    "permalink": "https://facebook.com/example2",
+    "location": "Seattle, WA"
+  },
+  {
+    "platform": "facebook",
+    "text": "Open mic comedy at Union Hall tomorrow, doors 7:30",
+    "created_time": "2026-04-23T10:00:00Z",
+    "permalink": "https://facebook.com/example3",
+    "location": "Brooklyn, NY"
+  }
+]
