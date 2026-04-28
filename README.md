@@ -49,3 +49,8 @@ python3 src/comedy_events.py \
 ## Next step after this
 
 Add a real Meta Graph API ingester that writes raw post text into this same schema.
+
+
+## Rebuild roadmap
+
+See `ROADMAP.md` for the full phased rebuild plan.
